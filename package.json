@@ -49,7 +49,7 @@
     "standard": "16.0.4"
   },
   "dependencies": {
-    "winston": "2.4.5",
+    "winston": "2.4.6",
     "winston-papertrail": "1.0.5"
   }
 }
